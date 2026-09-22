@@ -1,0 +1,23 @@
+{
+  "generated_utc": "2026-09-22 13:32",
+  "total_samples": 463514,
+  "per_task": {
+    "response_select": 139797,
+    "chat_response_select": 29883,
+    "docstring_match": 29141,
+    "signature_select": 15482,
+    "language_id": 119211,
+    "bug_diagnosis": 80000,
+    "type_completion": 50000
+  },
+  "per_task_bytes": {
+    "response_select": 756477815,
+    "chat_response_select": 331932572,
+    "docstring_match": 53692521,
+    "signature_select": 8848429,
+    "language_id": 118826869,
+    "bug_diagnosis": 82575510,
+    "type_completion": 18271964
+  },
+  "shards": 14
+}
